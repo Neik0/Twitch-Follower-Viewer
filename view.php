@@ -1,7 +1,7 @@
 <?php
 $name = "";
 if(empty($_GET["name"])){
-    $name = "elitamg";
+    $name = "eliteamg";
 } else {
     $name = $_GET["name"];
 }
